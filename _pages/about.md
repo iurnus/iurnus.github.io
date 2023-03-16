@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an oceanographer studying the ocean processes that occurs on different
+I am an oceanographer studying the ocean processes that occur on different
 spatial and temporal scales. My research focuses on air--sea interactions, but
 I am also interested in ocean surface waves, atmospheric rivers, sea-ice, and
 sediment transport. 
